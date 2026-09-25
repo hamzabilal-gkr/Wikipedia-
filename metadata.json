@@ -1,0 +1,6 @@
+{
+  "name": "BSCS Personal Profile & Identity Page",
+  "description": "A clean, modern academic personal identity profile inspired by Wikipedia's structured layout for a BSCS Computer Science student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
